@@ -9,6 +9,13 @@
   - 赋值，流程控制(if/else, try/except, while, for)；
   - 迭代(iterable, iterator, generator)；
   - 列表推导式(list comprehensions)；
+- 03: [python基础C](https://github.com/mt1022/p4ds/blob/main/03_python_basics_c.ipynb)
+  - 函数(function)；
+  - 模块(module)；
+- 04: [python基础D](https://github.com/mt1022/p4ds/blob/main/04_python_basics_d.ipynb)
+  - 类(class), 对象(object)；
+  - 属性(attribute), 方法(method)；
+  - 继承(inheritance)；
 
 ----------------
 Text of <a href="https://github.com/mt1022/p4ds">Python for Data Science</a> © 2025 College of Ecology@LZU is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
