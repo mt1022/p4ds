@@ -16,6 +16,7 @@
   - 类(class), 对象(object)；
   - 属性(attribute), 方法(method)；
   - 继承(inheritance)；
+  - `dataclass` & `namedtuple`；
 
 ----------------
 Text of <a href="https://github.com/mt1022/p4ds">Python for Data Science</a> © 2025 College of Ecology@LZU is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
