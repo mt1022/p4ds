@@ -14,7 +14,7 @@ def factorial(n):
     return n * factorial(n - 1)
 
 # 模块级别的变量
-PI = 3.14159
+PI = 3.14
 VERSION = "1.0.0"
 
 # 在真实的模块文件中，通常会有这样的代码：
