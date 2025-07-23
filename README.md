@@ -13,10 +13,14 @@
   - 函数(function)；
   - 模块(module)；
 - 04: [python基础D](https://github.com/mt1022/p4ds/blob/main/04_python_basics_d.ipynb)
-  - 类(class), 对象(object)；
-  - 属性(attribute), 方法(method)；
+  - 类(class), 实例(instance)；
   - 继承(inheritance)；
-  - `dataclass` & `namedtuple`；
+  - `dataclass` & `namedtuple` (optional)；
+  - 脚本编写(scripting);
+- 05: 使用numpy处理向量、矩阵
+- 06: 使用pandas处理表格数据
+- 07: 使用matplotlib & seaborn进行可视化
+
 
 ----------------
 Text of <a href="https://github.com/mt1022/p4ds">Python for Data Science</a> © 2025 College of Ecology@LZU is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
