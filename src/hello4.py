@@ -4,7 +4,7 @@ from sys import stderr
 
 @click.command(context_settings=dict(help_option_names=['-h', '--help'], show_default=True))
 @click.argument('to', type=click.STRING)
-@click.option('-l', '--location', type=click.STRING, default='Lanzhou', help='output prefix')
+@click.option('-l', '--location', type=click.STRING, default='Lanzhou', help='say hello from where?')
 def print_hello(to, location):
     """
     Say hello to someone from somwhere.
