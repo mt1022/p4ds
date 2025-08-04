@@ -28,3 +28,7 @@
 - [Deep Learning: Fundations and Concepts](https://www.bishopbook.com/): free online book.
 - Various online courses
 - ...
+
+# AI辅助编程
+- [通义灵码](https://lingma.aliyun.com/): 阿里巴巴的AI编程助手
+- [GitHub Copilot](https://github.com/features/copilot): GitHub的AI编程助手([Student Developer Pack](https://education.github.com/pack))
