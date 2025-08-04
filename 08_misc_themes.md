@@ -32,3 +32,9 @@
 # AI辅助编程
 - [通义灵码](https://lingma.aliyun.com/): 阿里巴巴的AI编程助手
 - [GitHub Copilot](https://github.com/features/copilot): GitHub的AI编程助手([Student Developer Pack](https://education.github.com/pack))
+- [Cursor](https://cursor.so/): AI编程助手，支持多种编程语言
+
+# 学习一个新的工具包的tips
+- 如果这个包的很多函数都很常用，那就系统学习一下；如果只是用其中一个函数，可以专门看这个函数或模块；
+- Read the Documentation/Manual (Getting started, User Guide, API Reference都是什么，以pandas为例)
+- 边用变查（python内置帮助，AI Chatbot，online search）
