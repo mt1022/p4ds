@@ -17,10 +17,18 @@
   - 继承(inheritance)；
   - `dataclass` & `namedtuple` (optional)；
   - 脚本编写(scripting);
-- 05: 使用numpy处理向量、矩阵
-- 06: 使用pandas处理表格数据
-- 07: 使用matplotlib & seaborn进行可视化
-
+- 05: [使用numpy处理向量、矩阵](https://github.com/mt1022/p4ds/blob/main/05_numpy.ipynb)
+  - array创建与索引；
+  - numpy的运算优化；
+  - broadcasting机制；
+- 06: [使用pandas处理表格数据](https://github.com/mt1022/p4ds/blob/main/06_pandas.ipynb)
+  - Series与DataFrame介绍；
+  - 选取子集（索引与切片）；
+  - 分组运算；
+- 07: [可视化](https://github.com/mt1022/p4ds/blob/main/07_visualization.ipynb)
+  - Figure, Axes等绘图要素；
+  - Matplotlib基础绘图与定制；
+  - Seaborn与Plotnine简介；
 
 ----------------
 Text of <a href="https://github.com/mt1022/p4ds">Python for Data Science</a> © 2025 College of Ecology@LZU is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
