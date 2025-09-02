@@ -1,6 +1,6 @@
-### Python数据分析（Python for Data Science, P4DS）暑期训练营
+### Python数据分析（Python for Data Science, P4DS）
 
-训练营主要内容：
+主要内容：
 - 01：[python基础A](https://github.com/mt1022/p4ds/blob/main/01_python_basics_a.ipynb)
   - 核心对象(number, string, list, dict, set, tuple)；
   - 编程学习的建议；
